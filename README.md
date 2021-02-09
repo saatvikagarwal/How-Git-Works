@@ -43,3 +43,35 @@ move HEAD and update the working area (Switch to a branch)
 ###### git merge branchname
 Merge a branch into the active branch
 
+### Module 3 (Rebase) :-
+
+###### git rebase master
+Merges preserve history whereas rebases refractor history.
+
+###### git tag
+A tag is like a branch that doesn't move.
+
+### Module 4 (Distributed Version Control):-
+
+###### git clone repositoryURL
+This command only clones the master branch.
+
+###### git branch --all
+to view all references
+
+###### git show-ref master
+Displays references available in a local repository along with the associated commit IDs.
+
+###### git push
+The git push command is used to upload local repository content to a remote repository.
+
+###### git pull
+The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+
+###### git fetch
+The git fetch command downloads commits, files, and refs from a remote repository into your local repo.
+
+###### git fork
+A fork is kind of a clone but it's a remote clone.
+
+
