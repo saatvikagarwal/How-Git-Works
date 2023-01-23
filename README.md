@@ -12,7 +12,7 @@
 This command initializes empty git repository.
    ###### echo "Apple pie" | git hash-object --stdin -w
 After initializing thw repository we can store the git hash object using -w option
-  ######git cat-file -p 23991897e13e47ed0adb91a0082c31c82fe0cbe5
+  ###### git cat-file -p 23991897e13e47ed0adb91a0082c31c82fe0cbe5
 This command converts back the hash object to its original content
 
 
